@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="3L1 Scripts" commit="2efb6d52b567483f88aa56016642a278ec9b696b">
+<index version="1" name="3L1 Scripts" commit="c41872989d10b1636dacf4041c1d36b03df36ab9">
   <category name="Example">
     <reapack name="cfillion_Hello world.lua" type="script" desc="Hello world">
       <metadata>
@@ -18,30 +18,6 @@ Markdown
       </metadata>
       <version name="1.0" author="cfillion" time="2021-01-04T23:30:32Z">
         <source main="main">https://github.com/cfillion/reapack-repository-template/raw/58a3e39ba95bd0f35846aa1f39aa4cb2574295e1/Example/cfillion_Hello%20world.lua</source>
-      </version>
-    </reapack>
-  </category>
-  <category name="Various/3L1_Luna - Time-based theme switcher">
-    <reapack name="3L1_Luna - Time-based theme switcher (background).lua" type="script" desc="Luna - Time based theme switcher">
-      <metadata>
-        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
-{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
-\widowctrl\hyphauto
-
-{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Luna - Time-based theme switcher\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 This script lets you switch Reaper color themes at given hours. It lets you choose two themes from your SWS resource slots and select the time of the day Reaper switches between them. It's supposed to work in day/night cycles, so the themes are labeled "light" and "dark". Personally, I use Reapertips theme pack, which has both options.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 The script has also the possibility to set different day/night hours per month, allowing you to follow the Sun through the year.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 The default hours are 07:00 for light theme and 22:00 for night theme, so they are in sync with Amely Suncroll's Roboface auto background color function.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 The script also declares and updates an ExtState with tells if time is "Day" or "Night", so other scripts may use the info to apply light or dark color schemes depending on it.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Much thanks to Daniel Lumertz for his Reascript tutorial series, this script can only exist because of him.\par}
-}
-]]></description>
-      </metadata>
-      <version name="1.0" author="3L1" time="2025-05-22T07:04:46Z">
-        <source main="main">https://github.com/eli31a/3L1-Scripts/raw/2efb6d52b567483f88aa56016642a278ec9b696b/Various/3L1_Luna%20-%20Time-based%20theme%20switcher/3L1_Luna%20-%20Time-based%20theme%20switcher%20(background).lua</source>
-        <source file="3L1_Luna - Time-based theme switcher.lua">https://github.com/eli31a/3L1-Scripts/raw/2efb6d52b567483f88aa56016642a278ec9b696b/Various/3L1_Luna%20-%20Time-based%20theme%20switcher/3L1_Luna%20-%20Time-based%20theme%20switcher.lua</source>
-        <source file="Functions/General Functions.lua">https://github.com/eli31a/3L1-Scripts/raw/2efb6d52b567483f88aa56016642a278ec9b696b/Various/3L1_Luna%20-%20Time-based%20theme%20switcher/Functions/General%20Functions.lua</source>
-        <source file="Functions/User Interface.lua">https://github.com/eli31a/3L1-Scripts/raw/2efb6d52b567483f88aa56016642a278ec9b696b/Various/3L1_Luna%20-%20Time-based%20theme%20switcher/Functions/User%20Interface.lua</source>
       </version>
     </reapack>
   </category>
