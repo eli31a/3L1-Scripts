@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="3L1 Scripts" commit="ba257e0f36e904c51903ae1597f1fc4186e8ff14">
+<index version="1" name="3L1 Scripts" commit="ce8b1bd78f64fe7e1f7461485923b384f8e1e6ef">
   <category name="Various/3L1_Luna - Time-based theme switcher">
     <reapack name="3L1_Luna - Time-based theme switcher.lua" type="script" desc="Luna - Time based theme switcher">
       <metadata>
@@ -20,6 +20,11 @@
         <source main="main">https://github.com/eli31a/3L1-Scripts/raw/ba257e0f36e904c51903ae1597f1fc4186e8ff14/Various/3L1_Luna%20-%20Time-based%20theme%20switcher/3L1_Luna%20-%20Time-based%20theme%20switcher.lua</source>
         <source file="Functions/General Functions.lua">https://github.com/eli31a/3L1-Scripts/raw/ba257e0f36e904c51903ae1597f1fc4186e8ff14/Various/3L1_Luna%20-%20Time-based%20theme%20switcher/Functions/General%20Functions.lua</source>
         <source file="Functions/User Interface.lua">https://github.com/eli31a/3L1-Scripts/raw/ba257e0f36e904c51903ae1597f1fc4186e8ff14/Various/3L1_Luna%20-%20Time-based%20theme%20switcher/Functions/User%20Interface.lua</source>
+      </version>
+      <version name="1.2" author="3L1" time="2025-05-22T07:40:41Z">
+        <source main="main">https://github.com/eli31a/3L1-Scripts/raw/ce8b1bd78f64fe7e1f7461485923b384f8e1e6ef/Various/3L1_Luna%20-%20Time-based%20theme%20switcher/3L1_Luna%20-%20Time-based%20theme%20switcher.lua</source>
+        <source file="Functions/General Functions.lua">https://github.com/eli31a/3L1-Scripts/raw/ce8b1bd78f64fe7e1f7461485923b384f8e1e6ef/Various/3L1_Luna%20-%20Time-based%20theme%20switcher/Functions/General%20Functions.lua</source>
+        <source file="Functions/User Interface.lua">https://github.com/eli31a/3L1-Scripts/raw/ce8b1bd78f64fe7e1f7461485923b384f8e1e6ef/Various/3L1_Luna%20-%20Time-based%20theme%20switcher/Functions/User%20Interface.lua</source>
       </version>
     </reapack>
   </category>
