@@ -1,6 +1,6 @@
 -- @author 3L1
 -- @description Luna - Time based theme switcher
--- @version 1.3
+-- @version 1.4
 -- @about
 --   ## Luna - Time-based theme switcher
 --   
@@ -25,7 +25,7 @@
 --   Much thanks to Daniel Lumertz for his Reascript tutorial
 --   series, this script can only exist because of him.
 -- @provides
---   3L1_Luna - Time-based theme switcher.lua
+--   3L1_Luna - Time-based theme switcher (background).lua
 --   Functions/General Functions.lua
 --   Functions/User Interface.lua
 
@@ -33,7 +33,7 @@
 - Ejecutar plugin al inicio
 ]]
 
-VersionScript = "1.3"
+VersionScript = "1.4"
 NombreScript = "Luna - Time-based Theme Switcher"
 SeccionExt = "3L1_Luna"
 

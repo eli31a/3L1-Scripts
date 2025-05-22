@@ -1,7 +1,7 @@
--- @version 1.3
+-- @version 1.4
 -- @noindex
 
-VersionScript = "1.3"
+VersionScript = "1.4"
 NombreScript = "Luna - Time-based Theme Switcher"
 SeccionExt = "3L1_Luna"
 
