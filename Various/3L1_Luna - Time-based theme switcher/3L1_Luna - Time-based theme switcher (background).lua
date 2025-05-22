@@ -1,35 +1,6 @@
--- @author 3L1
--- @description Luna - Time based theme switcher
--- @version 1.0
--- @about
---   ## Luna - Time-based theme switcher
---   
---   This script lets you switch Reaper color themes at given hours.
---   It lets you choose two themes from your SWS resource slots and select
---   the time of the day Reaper switches between them. It's supposed to
---   work in day/night cycles, so the themes are labeled "light" and
---   "dark". Personally, I use Reapertips theme pack, which has both
---   options.
---   
---   The script has also the possibility to set different day/night hours
---   per month, allowing you to follow the Sun through the year.
---   
---   The default hours are 07:00 for light theme and 22:00 for night
---   theme, so they are in sync with Amely Suncroll's Roboface auto
---   background color function.
---   
---   The script also declares and updates an ExtState with tells if time
---   is "Day" or "Night", so other scripts may use the info to apply
---   light or dark color schemes depending on it.
---   
---   Much thanks to Daniel Lumertz for his Reascript tutorial
---   series, this script can only exist because of him.
--- @provides
---   3L1_Luna - Time-based theme switcher.lua
---   Functions/General Functions.lua
---   Functions/User Interface.lua
+-- @noindex
 
-VersionScript = "1.0"
+VersionScript = "1.1"
 NombreScript = "Luna - Time-based Theme Switcher"
 SeccionExt = "3L1_Luna"
 
