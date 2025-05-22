@@ -1,6 +1,6 @@
 -- @author 3L1
 -- @description Luna - Time based theme switcher
--- @version 1.1
+-- @version 1.2
 -- @about
 --   ## Luna - Time-based theme switcher
 --   
