@@ -1,9 +1,3 @@
---[[    To-do:
-- Ejecutar plugin al inicio
-]]
-
-
-
 -- @author 3L1
 -- @description Luna - Time based theme switcher
 -- @version 1.1
@@ -34,6 +28,10 @@
 --   3L1_Luna - Time-based theme switcher.lua
 --   Functions/General Functions.lua
 --   Functions/User Interface.lua
+
+--[[    To-do:
+- Ejecutar plugin al inicio
+]]
 
 VersionScript = "1.1"
 NombreScript = "Luna - Time-based Theme Switcher"
