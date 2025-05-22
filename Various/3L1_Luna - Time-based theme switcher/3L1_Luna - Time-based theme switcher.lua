@@ -1,6 +1,6 @@
 -- @author 3L1
 -- @description Luna - Time based theme switcher
--- @version 1.2
+-- @version 1.3
 -- @about
 --   ## Luna - Time-based theme switcher
 --   
@@ -33,7 +33,7 @@
 - Ejecutar plugin al inicio
 ]]
 
-VersionScript = "1.1"
+VersionScript = "1.3"
 NombreScript = "Luna - Time-based Theme Switcher"
 SeccionExt = "3L1_Luna"
 
