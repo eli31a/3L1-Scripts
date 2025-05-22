@@ -1,3 +1,5 @@
+-- @noindex
+
 function print(valor)
     reaper.ShowConsoleMsg(tostring(valor)..'\n')
 end

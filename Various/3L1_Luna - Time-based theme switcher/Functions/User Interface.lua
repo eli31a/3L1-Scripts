@@ -1,3 +1,5 @@
+-- @noindex
+
 local ImGui = require "imgui" "0.9.3"
 local ctx = ImGui.CreateContext("Luna - Time-based theme switcher")
 local nombreVentana = NombreScript.." "..VersionScript

@@ -2,6 +2,8 @@
 - Ejecutar plugin al inicio
 ]]
 
+-- @noindex
+
 VersionScript = "1.0"
 NombreScript = "Luna - Time-based Theme Switcher"
 SeccionExt = "3L1_Luna"
