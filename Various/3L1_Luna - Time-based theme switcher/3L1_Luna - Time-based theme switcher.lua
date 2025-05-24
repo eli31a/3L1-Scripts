@@ -1,6 +1,6 @@
 -- @author 3L1
 -- @description Luna - Time based theme switcher
--- @version 1.5
+-- @version 1.6
 -- @about
 --   ## Luna - Time-based theme switcher
 --   
@@ -22,6 +22,8 @@
 --   is "Day" or "Night", so other scripts may use the info to apply
 --   light or dark color schemes depending on it.
 --   
+--   The script requires SWS/S&M and ReaImGui extensions
+--   
 --   Much thanks to Daniel Lumertz for his Reascript tutorial
 --   series, this script can only exist because of him.
 -- @changelog
@@ -36,7 +38,7 @@
 - Ejecutar plugin al inicio
 ]]
 
-VersionScript = "1.5"
+VersionScript = "1.6"
 NombreScript = "Luna - Time-based Theme Switcher"
 SeccionExt = "3L1_Luna"
 
