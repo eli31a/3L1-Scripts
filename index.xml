@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="3L1 Scripts" commit="0528f1cae30a4e789e88ba2fc069fddc243be4ef">
+<index version="1" name="3L1 Scripts" commit="f585683ad060f63f1e7065fd064a942e7284a188">
   <category name="Various/3L1_Luna - Time-based theme switcher">
     <reapack name="3L1_Luna - Time-based theme switcher.lua" type="script" desc="Luna - Time based theme switcher">
       <metadata>
@@ -12,6 +12,7 @@
 {\pard \ql \f0 \sa180 \li0 \fi0 The script has also the possibility to set different day/night hours per month, allowing you to follow the Sun through the year.\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 The default hours are 07:00 for light theme and 22:00 for night theme, so they are in sync with Amely Suncroll's Roboface auto background color function.\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 The script also declares and updates an ExtState with tells if time is "Day" or "Night", so other scripts may use the info to apply light or dark color schemes depending on it.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The script requires SWS/S&M and ReaImGui extensions\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 Much thanks to Daniel Lumertz for his Reascript tutorial series, this script can only exist because of him.\par}
 }
 ]]></description>
@@ -44,6 +45,14 @@ name ExtState]]></changelog>
         <source file="3L1_Luna - Time-based theme switcher (background).lua">https://github.com/eli31a/3L1-Scripts/raw/0528f1cae30a4e789e88ba2fc069fddc243be4ef/Various/3L1_Luna%20-%20Time-based%20theme%20switcher/3L1_Luna%20-%20Time-based%20theme%20switcher%20(background).lua</source>
         <source file="Functions/General Functions.lua">https://github.com/eli31a/3L1-Scripts/raw/0528f1cae30a4e789e88ba2fc069fddc243be4ef/Various/3L1_Luna%20-%20Time-based%20theme%20switcher/Functions/General%20Functions.lua</source>
         <source file="Functions/User Interface.lua">https://github.com/eli31a/3L1-Scripts/raw/0528f1cae30a4e789e88ba2fc069fddc243be4ef/Various/3L1_Luna%20-%20Time-based%20theme%20switcher/Functions/User%20Interface.lua</source>
+      </version>
+      <version name="1.6" author="3L1" time="2025-05-24T20:24:48Z">
+        <changelog><![CDATA[Bugfix: Prevent future issues by deleting background script
+name ExtState]]></changelog>
+        <source main="main">https://github.com/eli31a/3L1-Scripts/raw/f585683ad060f63f1e7065fd064a942e7284a188/Various/3L1_Luna%20-%20Time-based%20theme%20switcher/3L1_Luna%20-%20Time-based%20theme%20switcher.lua</source>
+        <source file="3L1_Luna - Time-based theme switcher (background).lua">https://github.com/eli31a/3L1-Scripts/raw/f585683ad060f63f1e7065fd064a942e7284a188/Various/3L1_Luna%20-%20Time-based%20theme%20switcher/3L1_Luna%20-%20Time-based%20theme%20switcher%20(background).lua</source>
+        <source file="Functions/General Functions.lua">https://github.com/eli31a/3L1-Scripts/raw/f585683ad060f63f1e7065fd064a942e7284a188/Various/3L1_Luna%20-%20Time-based%20theme%20switcher/Functions/General%20Functions.lua</source>
+        <source file="Functions/User Interface.lua">https://github.com/eli31a/3L1-Scripts/raw/f585683ad060f63f1e7065fd064a942e7284a188/Various/3L1_Luna%20-%20Time-based%20theme%20switcher/Functions/User%20Interface.lua</source>
       </version>
     </reapack>
   </category>
